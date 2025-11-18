@@ -9,10 +9,13 @@ header{
     font-family: Roboto;
 }
 
+nav{
+    display: flex;
+    align-items: center;
+}
+
 .research{
     display: none;
 }
 
-.search{
-    width: 10%;
-}
+.bo
